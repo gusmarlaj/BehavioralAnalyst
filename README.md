@@ -46,6 +46,13 @@ I love the entire process of analizing data. I love the challenge of finding hid
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-powerBI-informational?style=flat&logo=HTML5&color=E34F26)
 
+[![Code-R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB)](https://www.r-project.org/)
+[![Code-python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=E34F26)](https://www.python.org/)
+[![Code-PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)](https://www.postgresql.org/)
+[![Code-SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=003B57)](https://www.sqlite.org/)
+[![Code-powerBI](https://img.shields.io/badge/Code-Power_BI-informational?style=flat&logo=powerbi&color=F2C811)](https://powerbi.microsoft.com/)
+
+
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
