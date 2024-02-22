@@ -40,17 +40,10 @@ I love the entire process of analizing data. I love the challenge of finding hid
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-powerBI-informational?style=flat&logo=HTML5&color=E34F26)
-
 [![Code-R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=61DAFB)](https://www.r-project.org/)
 [![Code-python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=E34F26)](https://www.python.org/)
 [![Code-PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)](https://www.postgresql.org/)
 [![Code-SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=003B57)](https://www.sqlite.org/)
-[![Code-powerBI](https://img.shields.io/badge/Code-Power_BI-informational?style=flat&logo=powerbi&color=F2C811)](https://powerbi.microsoft.com/)
 
 
 </br>
@@ -62,12 +55,17 @@ I love the entire process of analizing data. I love the challenge of finding hid
 
 </br>
 
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Qualtrics-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+[![Tools-PowerBI](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&color=F24E1E)](https://powerbi.microsoft.com/)
+[![Tools-Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=CB3837)](https://www.figma.com/)
+[![Tools-Tableau](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&color=430098)](https://www.tableau.com/)
+[![Tools-Qualtrics](https://img.shields.io/badge/Tools-Qualtrics-informational?style=flat&logo=qualtrics&color=00C7B7)](https://www.qualtrics.com/)
+[![Tools-Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)](https://git-scm.com/)
+[![Tools-GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)](https://github.com/)[![Tools-Jupyter](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&color=F37626)](https://jupyter.org/)
+[![Tools-Scikit Learn](https://img.shields.io/badge/Tools-Scikit_Learn-informational?style=flat&logo=scikit-learn&color=F7931E)](https://scikit-learn.org/)
+[![Tools-TensorFlow](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)](https://www.tensorflow.org/)
+[![Tools-PyTorch](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)](https://pytorch.org/)
+
+
 
 ## 📝 Latest Blog Posts
 
