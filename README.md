@@ -45,13 +45,11 @@ I love the entire process of analizing data. I love the challenge of finding hid
 [![Code-PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)](https://www.postgresql.org/)
 [![Code-SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=003B57)](https://www.sqlite.org/)
 
-
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
+[![Style-Plotly](https://img.shields.io/badge/Style-Plotly-informational?style=flat&logo=plotly&color=3F4F75)](https://plotly.com/)
+[![Style-Seaborn](https://img.shields.io/badge/Style-Seaborn-informational?style=flat&logo=seaborn&color=4EABE1)](https://seaborn.pydata.org/)
+[![Style-Matplotlib](https://img.shields.io/badge/Style-Matplotlib-informational?style=flat&logo=matplotlib&color=11557C)](https://matplotlib.org/)
 
 </br>
 
