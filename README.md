@@ -19,6 +19,12 @@ I love the entire process of analizing complex data. I love the challenge of fin
 <a href="https://medium.com/@natturaminds/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
+<a href="mailto:aiandpsychology@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="21px" style="margin-right: 5px;"/></a>
+<a href="https://www.linkedin.com/in/gusmarlaj"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/martinla.se"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://medium.com/@natturaminds/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+
 - 💬 If you have any questions or feedback, please feel free to reach out to me!
 
 ## 🔭 I'm currently working on
