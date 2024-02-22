@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -31,8 +31,10 @@ I love the entire process of analizing complex data. I love the challenge of fin
     
 ## 🌱 I'm currently learning
 
-- 📱 
-- Python and machine learning: Advancing my proficiency in advanced algorithms and predictive modeling.
+- 📱
+- I’m currently learning everything 🤣
+- 🌱 Python and machine learning: Advancing my proficiency in advanced algorithms and predictive modeling.
+- ⚡ Fun fact: I love learning to play guitar
 
 ## 💼 Technical Skills
 
