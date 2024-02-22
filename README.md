@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm < target="_blank" rel="noreferrer">Lau</a> 👋
+Hi there, I'm Lau 👋
 </h3>
 
 <h2 align="center">
