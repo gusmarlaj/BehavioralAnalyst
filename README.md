@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm a behavioral scientist 💻, Traveller 📸🎨, and researcher 
+I'm a behavioral scientist 💻, and researcher 
 </h2> 
 
 I love the entire process of analizing data. I love the challenge of finding hidden patterns and solve different kind of problems.
@@ -34,7 +34,9 @@ I love the entire process of analizing data. I love the challenge of finding hid
 - 📱 
 - R
 - Python and machine learning
-- SQL 
+- SQL
+- Statistical Methods
+- SPSS, Power BI, Tableau.
 
 ## 💼 Technical Skills
 
