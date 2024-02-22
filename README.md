@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm a behavioral scientist 💻, and researcher 
+I'm a behavioral scientist 💻 with a passion for research and data analysis. 
 </h2> 
 
-I love the entire process of analizing data. I love the challenge of finding hidden patterns and solve different kind of problems.
+I love the entire process of analizing complex data. I love the challenge of finding hidden patterns and solve different kind of problems.
 
 ### 🤝 Connect with me:
 
@@ -19,24 +19,20 @@ I love the entire process of analizing data. I love the challenge of finding hid
 <a href="https://medium.com/@natturaminds/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions or feedback, please feel free to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- Fatigue and Sleep research (Working on it soon...)
-- Kaggle and udemy projects
-- My own projects
-- My next blog
-- My python and machine learning skills
-
+    - Conducting a research in the field of Fatigue and Sleep (Stay tuned for updates...)
+    - Engaging in Kaggle and Udemy projects to improve my analytical skills
+    - Pursuing personal projects that push the boundaries of innovation
+    - Crafting my next enlightening blog post
+    - Sharpening my expertise in Python and machine learning techniques
+    
 ## 🌱 I'm currently learning
 
 - 📱 
-- R
-- Python and machine learning
-- SQL
-- Statistical Methods
-- SPSS, Power BI, Tableau.
+- Python and machine learning: Advancing my proficiency in advanced algorithms and predictive modeling.
 
 ## 💼 Technical Skills
 
