@@ -6,9 +6,6 @@
 Hi there, I'm Lau 👋
 </h3>
 
-![AWS-Badge](aws-cloud-quest-cloud-practitioner(1).png)  <!-- Here's where the badge shows up -->
-
-
 <h2 align="center">
 I'm a behavioral scientist 💻 with a passion for research and data analysis. 
 </h2> 
@@ -65,7 +62,8 @@ I love the entire process of analizing complex data. I love the challenge of fin
 [![Tools-TensorFlow](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)](https://www.tensorflow.org/)
 [![Tools-PyTorch](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)](https://pytorch.org/)
 
-
+## ⚡ Badges
+![AWS Badge](aws-cloud-quest-cloud-practitioner(3).png)
 
 ## 📝 Latest Blog Posts
 
