@@ -63,7 +63,7 @@ I love the entire process of analizing complex data. I love the challenge of fin
 [![Tools-PyTorch](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)](https://pytorch.org/)
 
 ## ⚡ Badges
-![AWS Badge](aws-cloud-quest-cloud-practitioner(3).png)
+![AWS Badge](aws-cloud-quest-cloud-practitioner(4).png)
 
 ## 📝 Latest Blog Posts
 
