@@ -6,6 +6,9 @@
 Hi there, I'm Lau 👋
 </h3>
 
+![AWS-Badge](aws-cloud-quest-cloud-practitioner(1).png)  <!-- Here's where the badge shows up -->
+
+
 <h2 align="center">
 I'm a behavioral scientist 💻 with a passion for research and data analysis. 
 </h2> 
@@ -43,7 +46,6 @@ I love the entire process of analizing complex data. I love the challenge of fin
 [![Code-python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=E34F26)](https://www.python.org/)
 [![Code-PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)](https://www.postgresql.org/)
 [![Code-SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=003B57)](https://www.sqlite.org/)
-![AWS-Badge](aws-cloud-quest-cloud-practitioner(1).png)
 
 </br>
 
