@@ -43,6 +43,7 @@ I love the entire process of analizing complex data. I love the challenge of fin
 [![Code-python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=E34F26)](https://www.python.org/)
 [![Code-PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)](https://www.postgresql.org/)
 [![Code-SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=003B57)](https://www.sqlite.org/)
+![AWS-Badge](https://www.credly.com/badges/8762ecd3-9c4f-4629-9e4f-fcb4a99e9381)
 
 </br>
 
