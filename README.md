@@ -64,7 +64,8 @@ I love the entire process of analizing complex data. I love the challenge of fin
 
 ## ⚡ Badges
 ![AWS Badge](aws-cloud-quest-cloud-practitioner(4).png)
-![AWS Badge](aws-cloud-quest-data-analytics(1).png)
+
+![AWS Badge](aws-cloud-quest-data-analytics (1).png) 
 
 ## 📝 Latest Blog Posts
 
