@@ -27,7 +27,7 @@ I love the entire process of analizing complex data. I love the challenge of fin
     - Conducting a research in the field of Fatigue and Sleep (Stay tuned for updates...)
     - Engaging in Kaggle and Udemy projects to improve my analytical skills
     - Pursuing personal projects that push the boundaries of innovation
-    - Crafting my next enlightening blog post
+    - Crafting my next enlightening blog post. Check it out!
     - Sharpening my expertise in Python and machine learning techniques
     
 ## 🌱 I'm currently learning
@@ -35,7 +35,7 @@ I love the entire process of analizing complex data. I love the challenge of fin
 - 📱
 - I’m currently learning everything 🤣
 - 🌱 Python and machine learning: Advancing my proficiency in advanced algorithms and predictive modeling.
-- ⚡ Fun fact: I love learning to play guitar
+- ⚡ Fun fact: I love learning to play guitar. Also I love talking about technology, sustainability, the nonprofit sector, and healthcare.
 
 ## 💼 Technical Skills
 
